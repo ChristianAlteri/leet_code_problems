@@ -1,5 +1,3 @@
-# leet_code_problems
-My LeetCode grind
+# My LeetCode grind
 
-
-[https://leetcode.com/ChristianAlteri/]
+[ChristianAlteri](https://leetcode.com/ChristianAlteri/)
