@@ -1,3 +1,3 @@
 # My LeetCode grind
 
-[ChristianAlteri](https://leetcode.com/ChristianAlteri/)
+Hit the link [ChristianAlteri](https://leetcode.com/ChristianAlteri/)
