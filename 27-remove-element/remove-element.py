@@ -5,9 +5,10 @@ class Solution(object):
         :type val: int
         :rtype: int
         """
-        nums.sort()
-        while val in nums:
-            nums.remove(val)
+        k = 0
 
-        # print(nums)
-        return len(nums)
+        for i in range(len(nums)):
+            if nums[i] != val:
+                nums[k] = nums[i]
+                k += 1
+        return k
